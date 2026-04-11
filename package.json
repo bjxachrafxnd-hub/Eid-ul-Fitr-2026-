@@ -1,13 +1,15 @@
 {
-  "name": "sakai-bot",
-  "version": "1.0.0",
+  "name": "jin-sakai-bot",
+  "version": "2.0.0",
+  "description": "بوت جين ساكاي - الإصدار الإمبراطوري",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "fca-project-orion": "latest",
-    "axios": "latest",
-    "@google/generative-ai": "latest"
+    "@google/generative-ai": "latest",
+    "openai": "latest",
+    "axios": "latest"
   }
 }
